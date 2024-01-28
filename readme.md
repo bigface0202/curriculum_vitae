@@ -111,7 +111,7 @@
 
 - Development for human-detection and tracking.
 - Minimize the computing cost by model-quantization.
-- Team management with three off-shore engineer.
+- Team management with three engineers in English.
 - Programming Language/Framework
   - C++
   - Vue.js
@@ -130,7 +130,7 @@
 #### Description
 
 - Development for location prediction using Bluetooth signal strength.
-- Team management with three off-shore engineer.
+- Team management with three engineers in English.
 - Programming Language/Framework
   - Dart
   - Vue.js
@@ -145,7 +145,7 @@
 #### Description
 
 - Development for anomaly detection like shoulder-hacking and taking photo by smart-phone.
-- Team management with three off-shore engineer.
+- Team management with three engineers in English.
 - Programming Language/Framework
   - Python3
   - JavaScript
