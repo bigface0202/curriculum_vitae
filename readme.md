@@ -18,8 +18,8 @@
 
 ### Programming
 - Terraform
-- Groovy
 - Python
+- Groovy
 - Golang
 - Vue.js
 - C++
@@ -29,6 +29,7 @@
 - Kubernetes
 - Jenkins
 - Raspberry Pi
+- Apache Airflow
 
 ### Others
 - Agile
@@ -40,14 +41,18 @@
 - English
   - Buisiness middle
   - TOEIC: 830
+  - IELTS: 6.0
+    - Reading: 6.5
+    - Listening: 6.5
+    - Writing: 6.5
+    - Speaking: 5.0
 
 ## Personality
 
-- There's no better way to learn than experiencing it yourself.
+- My Motto
+  - There's no better way to learn than experiencing it yourself.
 - Competitive
 - Hard worker
-- Shy
-- Perfectionist (Try to fix it now)
 
 ## Hobby
 
@@ -67,11 +72,22 @@
 #### Description
 
 - Development for ML training/prediction resources on Google Cloud.
-- CI tool development by Jenkins.
-- Improvement for data security using VPC Service Control.
-- Implementing monitoring tool.
-  - BigQuery's Slot consumption.
-  - Monitoring for Idle-state instance for cost reduction.
+- CI tool development.
+  - Implementing deployment tools for Cloud Composer(Apache Airflow).
+  - Implementing deployment tools for Kubernetes.
+- Data security improvement.
+  - Implementing VPC Service Control to restrict accessing the data. 
+  - Implementing Firewall and Cloud Armor
+  - Optimizing IAM roles.
+- Cost reduction activities.
+  - Optimizing BigQuery's slot usage.
+  - Monitoring for unused state of instances.
+  - Reducing the amount of log in Cloud Logging.
+- Operation/Troubleshooting
+  - Google Kubernetes Engine
+  - Cloud Composer
+  - Network
+  - BigQuery
 - Programming Language/Framework
   - Python3
   - Groovy
@@ -80,6 +96,7 @@
   - Google Cloud
   - Jenkins
   - Apache Airflow
+  - Kubernetes
 
 #### Responsibilities between 2022/02 - 2023/05
 
