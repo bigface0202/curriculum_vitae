@@ -3,6 +3,7 @@
 ## Basic Information
 - Name: Yusuke Enami(Yusuke Kishishita)/江波優介（岸下優介）
 - Nationality: Japan
+- Education: Ph.D. of Engineering
 - Portfolio:
   - https://bigface0202.github.io/portfolio/
 - Blog: 
@@ -13,6 +14,8 @@
     - [Future Tech Blog](https://future-architect.github.io/authors/%E5%B2%B8%E4%B8%8B%E5%84%AA%E4%BB%8B/)
 - X: 
   - [@bigface0202](https://twitter.com/bigface0202)
+- LinkedIn
+  - [Yusuke Enami(Kishishita)](https://www.linkedin.com/in/yusuke-enami-56197b181/)
 
 ## Skills
 
@@ -21,13 +24,14 @@
 - Python
 - Groovy
 - Golang
-- Vue.js
+- JavaScript
 - C++
 
 ### Framework, Middleware, Hardware
 - Google Cloud
 - Kubernetes
 - Jenkins
+- Vue.js
 - Raspberry Pi
 - Apache Airflow
 
@@ -52,7 +56,7 @@
 - My Motto
   - There's no better way to learn than experiencing it yourself.
 - Competitive
-- Hard worker
+- Hard Worker
 
 ## Hobby
 
@@ -60,10 +64,17 @@
 - Car
 - Movie/Drama
 - Mahjong
+- Video Game
 
 ## Job Career
 
 ### 2022/02 - : Future Architect - IT Consultant
+
+#### Summary
+
+- Working as a SRE/DevOps engineer in products recommendation platform team of retail company.
+- Mainly, developing the infrastructure on Google Cloud.
+- Data security, cost reduction, and network are also my responsibility.
 
 #### Responsibilities between 2022/05 - Now
 
@@ -71,7 +82,7 @@
 
 #### Description
 
-- Development for ML training/prediction resources on Google Cloud.
+- Development for machine learning training/prediction resources on Google Cloud.
 - CI tool development.
   - Implementing deployment tools for Cloud Composer(Apache Airflow).
   - Implementing deployment tools for Kubernetes.
@@ -86,6 +97,7 @@
 - Operation/Troubleshooting
   - Google Kubernetes Engine
   - Cloud Composer
+  - Compute Engine
   - Network
   - BigQuery
 - Programming Language/Framework
@@ -119,6 +131,12 @@
   - Jenkins
 
 ### 2020/04 - 2022/01: Global Walkers, Inc. - AI Development Engineer
+
+#### Summary
+
+- Research and develop image processing technology.
+- Mainly, developing the software using object detection, object tracking, pose estimation, and model quantization.
+- Collaborating with three offshore engineers as a team leader in English.
 
 #### Responsibilities between 2021/04 - 2022/01
 
@@ -176,7 +194,7 @@
 
 #### Description
 
-- Performan evaluation for YOLOv3.
+- Performance evaluation for YOLOv3.
 - Academic paper research.
 - Implementation of SmoothGRAD and modification for evaluating the YOLOv3 model.
 - Reasearch and development with one engineer.
