@@ -1,6 +1,6 @@
 # CV
 
-## Basic Information
+## 基本情報
 - Name: 江波（岸下）優介 / Yusuke Enami (Kishishita)
 - Nationality: Japan
 - Education: 博士（工学）
@@ -15,9 +15,9 @@
 - LinkedIn
   - [Yusuke Enami(Kishishita)](https://www.linkedin.com/in/yusuke-enami-56197b181/)
 
-## Skills
+## スキル
 
-### Programming
+### プログラミング言語
 - Terraform
 - Python
 - Groovy
@@ -25,7 +25,7 @@
 - JavaScript
 - C++
 
-### Framework, Middleware, Hardware
+### フレームワーク・ミドルウェア・ハードウェア
 - Google Cloud
 - Kubernetes
 - Jenkins
@@ -33,10 +33,10 @@
 - Raspberry Pi
 - Apache Airflow
 
-### Others
+### その他、開発手法など
 - Agile
 
-## Language
+## 言語
 
 - 日本語
   - 第一言語
@@ -48,9 +48,9 @@
     - Writing: 6.5
     - Speaking: 5.0
 
-## Job Career
+## キャリア
 
-### 2022/02 - : Future Architect - IT Consultant
+### 2022/02 - 現在 : フューチャーアーキテクト株式会社 - ITコンサルタント
 
 #### 要約
 
@@ -58,11 +58,11 @@
 - 主に、Google Cloudを利用したインフラストラクチャ構築・ポリシー整備に従事。
 - 機密情報保護に向けたセキュリティ向上施策、クラウドリソースのコストカット活動、ネットワーク整備にも貢献。
 
-#### Responsibilities between 2022/05 - Now
+#### 業務内容： 2022/05 - 現在
 
 - クライアント企業における製品レコメンドエンジン開発チームのDevOpsエンジニアとして従事。
 
-#### Description
+#### 詳細
 
 - AIモデルの学習・推論用のGoogle Cloudインフラストラクチャ構築に従事。
 - CI/CDツールの構築に貢献。
@@ -105,11 +105,11 @@
   - Apache Airflow
   - Kubernetes
 
-#### Responsibilities between 2022/02 - 2023/05
+#### 業務内容： 2022/02 - 2023/05
 
 - クライアント企業におけるプロジェクトを横断したSREチームのエンジニアとして従事。
 
-#### Description
+#### 詳細
 
 - ユーザー・グループ・IAMを検索可能なSREツールの要件定義・設計・開発・運用設計・導入の推進。
 - SaaS利用に向けた運用・監視設計、導入の推進。
@@ -128,19 +128,19 @@
   - Google Cloud
   - Jenkins
 
-### 2020/04 - 2022/01: Global Walkers, Inc. - AI Development Engineer
+### 2020/04 - 2022/01: Global Walkers, Inc. - AI開発エンジニア
 
-#### Summary
+#### 要約
 
 - DeepLearningを利用した画像処理技術の研究開発エンジニアとして働く。
 - 物体検出、人物トラッキング、姿勢推定、モデル量子化を利用したアプリケーション開発に従事。
 - チームリーダーとして英語でのコミュニケーションを通じたオフショアエンジニアとのソフトウェア開発にも貢献。
 
-#### Responsibilities between 2021/04 - 2022/01
+#### 業務内容： 2021/04 - 2022/01
 
 - Raspberry Piを利用したAI監視カメラの開発
 
-#### Description
+#### 詳細
 
 - 人物検出、トラッキング技術の利用したAI監視カメラの研究開発に従事。
 - カメラ画面確認用のフロントエンド・バックエンドの開発を行う。
@@ -158,11 +158,11 @@
   - ROS2
   - Raspberry Pi 4B
 
-#### Responsibilities between 2020/10 - 2021/03
+#### 業務内容： 2020/10 - 2021/03
 
 - Bluetoothビーコンを利用した位置推定技術の研究開発
 
-#### Description
+#### 詳細
 
 - Bluetoothの信号強度と機械学習を利用した位置推定技術の研究開発に従事。
 - 信号強度取得用のモバイルアプリ、位置可視化用のフロントエンドアプリの開発を行う。
@@ -174,11 +174,11 @@
   - Flutter
   - Firebase
 
-#### Responsibilities between 2020/07 - 2020/09
+#### 業務内容： 2020/07 - 2020/09
 
 - リモートワークに向けた異常検知ソフトウェアの開発
 
-#### Description
+#### 詳細
 
 - リモートワーク中におけるショルダーハッキングや社員の異常行動を検知するソフトウェア開発に従事。
 - 異常検知用のPythonアプリ、異常を管理するダッシュボードアプリの開発を行う。
@@ -190,11 +190,11 @@
   - Tensorflow Lite
   - Firebase
 
-#### Responsibilities between 2020/04 - 2020/06
+#### 業務内容： 2020/04 - 2020/06
 
 - 物体検出モデルの性能評価に関する研究開発
 
-#### Description
+#### 詳細
 
 - 物体検出モデルであるYOLOv3の検出性能を評価する手法について調査・実装・評価に従事。
 - 主に学術論文をベースに調査を行う。
