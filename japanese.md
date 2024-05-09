@@ -149,6 +149,7 @@
 - Programming Language/Framework
   - C++
   - Python
+  - JavaScript
   - Vue.js
   - AWS
     - Kinesis Video Stream
@@ -169,6 +170,7 @@
 - 3人のオフショアエンジニアと英語でのコミュニケーションを通じて開発を推進。
 - Programming Language/Framework
   - Dart
+  - JavaScript
   - Vue.js
   - Tensorflow.js
   - Flutter
