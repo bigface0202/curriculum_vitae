@@ -1,19 +1,19 @@
 # CV
 
 ## 基本情報
-- Name: 江波（岸下）優介 / Yusuke Enami (Kishishita)
-- Nationality: Japan
-- Education: 博士（工学）
-- Portfolio:
-  - https://bigface0202.github.io/portfolio/
-- Blog: 
-  - English 
+- 氏名: 江波（岸下）優介 / Yusuke Enami (Kishishita)
+- 国籍: 日本
+- 最終学歴: 博士（工学）
+- ポートフォリオ
+  - [GitHub Pages](https://bigface0202.github.io/portfolio/)
+- 出版物
+  - 英語記事
     - [medium](https://medium.com/@bigface00)
-  - Japanese
+  - 日本語記事
     - [Qiita](https://qiita.com/bigface00)
     - [Future Tech Blog](https://future-architect.github.io/authors/%E5%B2%B8%E4%B8%8B%E5%84%AA%E4%BB%8B/)
-- LinkedIn
-  - [Yusuke Enami(Kishishita)](https://www.linkedin.com/in/yusuke-enami-56197b181/)
+- SNS
+  - [LinkedIn](https://www.linkedin.com/in/yusuke-enami-56197b181/)
 
 ## スキル
 
@@ -58,7 +58,7 @@
 - 主に、クライアント企業のGoogle Cloud環境上でのインフラストラクチャ整備・CI/CDツール開発に従事。
 - セキュリティを意識したアーキテクチャ構築、クラウドリソースのコストカット活動、ネットワーク整備にも貢献。
 
-#### 業務内容： 2022/05 - 現在
+#### 2022/05 - 現在 : 業務内容
 
 クライアント企業における製品レコメンドエンジン開発チームのDevOpsエンジニア兼サブリーダー
 
@@ -108,7 +108,7 @@
   - Jenkins
   - Apache Airflow
 
-#### 業務内容： 2022/02 - 2023/05
+#### 2022/02 - 2023/05 : 業務内容
 
 グローバル展開しているクライアント企業において、プロジェクトを横断したSREチームのエンジニア
 
@@ -145,7 +145,7 @@
 - 物体検出、人物トラッキング、姿勢推定、モデル量子化を利用したPoC・アプリケーション開発に従事。
 - チームリーダーとして英語でのコミュニケーションを通じたオフショアエンジニアとのソフトウェア開発にも貢献。
 
-#### 業務内容： 2021/04 - 2022/01
+#### 2021/04 - 2022/01 : 業務内容
 
 エッジデバイスを利用したAI監視カメラの開発のチームリーダー
 
@@ -175,7 +175,7 @@
   - ROS2
   - Raspberry Pi 4B
 
-#### 業務内容： 2020/10 - 2021/03
+#### 2020/10 - 2021/03 : 業務内容
 
 Bluetoothビーコンを利用した位置推定技術の研究開発のチームリーダー
 
@@ -199,7 +199,7 @@ Bluetoothビーコンを利用した位置推定技術の研究開発のチー�
   - Flutter
   - Firebase
 
-#### 業務内容： 2020/07 - 2020/09
+#### 2020/07 - 2020/09 : 業務内容
 
 リモートワークに向けた異常検知ソフトウェアの開発のエンジニア兼チームリーダー
 
@@ -221,7 +221,7 @@ Bluetoothビーコンを利用した位置推定技術の研究開発のチー�
   - Tensorflow Lite
   - Firebase
 
-#### 業務内容： 2020/04 - 2020/06
+#### 2020/04 - 2020/06 : 業務内容
 
 物体検出モデルの性能評価に関する研究開発のエンジニア
 
