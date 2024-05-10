@@ -1,6 +1,6 @@
 # CV
 
-## Basic Information
+## 基本情報
 - Name: 江波（岸下）優介 / Yusuke Enami (Kishishita)
 - Nationality: Japan
 - Education: 博士（工学）
@@ -15,9 +15,9 @@
 - LinkedIn
   - [Yusuke Enami(Kishishita)](https://www.linkedin.com/in/yusuke-enami-56197b181/)
 
-## Skills
+## スキル
 
-### Programming
+### プログラミング言語
 - Terraform
 - Python
 - Groovy
@@ -25,7 +25,7 @@
 - JavaScript
 - C++
 
-### Framework, Middleware, Hardware
+### フレームワーク・ミドルウェア・ハードウェア
 - Google Cloud
 - Kubernetes
 - Jenkins
@@ -33,10 +33,10 @@
 - Raspberry Pi
 - Apache Airflow
 
-### Others
+### その他、開発手法など
 - Agile
 
-## Language
+## 言語
 
 - 日本語
   - 第一言語
@@ -48,9 +48,9 @@
     - Writing: 6.5
     - Speaking: 5.0
 
-## Job Career
+## キャリア
 
-### 2022/02 - : Future Architect - IT Consultant
+### 2022/02 - 現在 : フューチャーアーキテクト株式会社 - ITコンサルタント
 
 #### 要約
 
@@ -58,11 +58,11 @@
 - 主に、クライアント企業のGoogle Cloud環境上でのインフラストラクチャ整備・CI/CDツール開発に従事。
 - セキュリティを意識したアーキテクチャ構築、クラウドリソースのコストカット活動、ネットワーク整備にも貢献。
 
-#### Responsibilities between 2022/05 - Now
+#### 業務内容： 2022/05 - 現在
 
-引き続き同じクライアント企業において、製品レコメンドエンジン開発チームのDevOpsエンジニアとして従事。
+クライアント企業における製品レコメンドエンジン開発チームのDevOpsエンジニア兼サブリーダー
 
-#### Description
+#### 詳細
 
 - リコメンドAIモデルの学習・推論用のGoogle Cloudインフラストラクチャ構築
   - 多数のリージョンを跨いだグローバル展開対応の推進
@@ -108,11 +108,11 @@
   - Jenkins
   - Apache Airflow
 
-#### Responsibilities between 2022/02 - 2023/05
+#### 業務内容： 2022/02 - 2023/05
 
-グローバル展開しているクライアント企業において、プロジェクトを横断したSREチームのエンジニアとして従事。
+グローバル展開しているクライアント企業において、プロジェクトを横断したSREチームのエンジニア
 
-#### Description
+#### 詳細
 
 - ユーザー・グループ・IAMを検索可能なSREツール開発
   - 要件定義・設計・開発・運用設計・導入まで一貫して担当
@@ -137,19 +137,19 @@
   - Google Cloud
   - Jenkins
 
-### 2020/04 - 2022/01: Global Walkers, Inc. - AI Development Engineer
+### 2020/04 - 2022/01: Global Walkers, Inc. - AI開発エンジニア
 
-#### Summary
+#### 要約
 
 - DeepLearningを利用した画像処理技術の研究開発エンジニアとして働く。
 - 物体検出、人物トラッキング、姿勢推定、モデル量子化を利用したPoC・アプリケーション開発に従事。
 - チームリーダーとして英語でのコミュニケーションを通じたオフショアエンジニアとのソフトウェア開発にも貢献。
 
-#### Responsibilities between 2021/04 - 2022/01
+#### 業務内容： 2021/04 - 2022/01
 
-- エッジデバイスを利用したAI監視カメラの開発
+エッジデバイスを利用したAI監視カメラの開発のチームリーダー
 
-#### Description
+#### 詳細
 
 - 人物検出、トラッキング技術の利用したAI監視カメラの研究開発
   - 要件定義・アーキテクチャ設計・開発までを担当
@@ -165,6 +165,7 @@
 - 利用プログラミング言語/フレームワーク
   - C++
   - Python
+  - JavaScript
   - Vue.js
   - AWS
     - Kinesis Video Stream
@@ -174,11 +175,11 @@
   - ROS2
   - Raspberry Pi 4B
 
-#### Responsibilities between 2020/10 - 2021/03
+#### 業務内容： 2020/10 - 2021/03
 
-- Bluetoothビーコンを利用した位置推定技術の研究開発
+Bluetoothビーコンを利用した位置推定技術の研究開発のチームリーダー
 
-#### Description
+#### 詳細
 
 - Bluetoothの信号強度と機械学習を利用した位置推定技術の研究開発
   - 要件定義・設計・開発まで実施
@@ -192,16 +193,17 @@
   - 主に英語でのコミュニケーション
 - 利用プログラミング言語/フレームワーク
   - Dart
+  - JavaScript
   - Vue.js
   - Tensorflow.js
   - Flutter
   - Firebase
 
-#### Responsibilities between 2020/07 - 2020/09
+#### 業務内容： 2020/07 - 2020/09
 
-- リモートワークに向けた異常検知ソフトウェアの開発
+リモートワークに向けた異常検知ソフトウェアの開発のエンジニア兼チームリーダー
 
-#### Description
+#### 詳細
 
 - リモートワーク中における異常行動を検知するソフトウェア開発
   - 異常行動：ショルダーハッキングやスマートフォンを利用したデータの盗撮など
@@ -219,11 +221,11 @@
   - Tensorflow Lite
   - Firebase
 
-#### Responsibilities between 2020/04 - 2020/06
+#### 業務内容： 2020/04 - 2020/06
 
-- 物体検出モデルの性能評価に関する研究開発
+物体検出モデルの性能評価に関する研究開発のエンジニア
 
-#### Description
+#### 詳細
 
 - 複数の物体検出モデルに対して検出性能を評価する手法の調査
   - 論文の調査を行い、実装から評価までを行う
