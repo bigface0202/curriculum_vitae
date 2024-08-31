@@ -1,23 +1,21 @@
-# CV
-
-## Basic Information
-- Name: 江波（岸下）優介 / Yusuke Enami (Kishishita)
-- Nationality: Japan
-- Education: 博士（工学）
-- Portfolio:
-  - https://bigface0202.github.io/portfolio/
-- Blog: 
-  - English 
+# 基本情報
+- 氏名: 江波（岸下）優介 / Yusuke Enami (Kishishita)
+- 国籍: 日本
+- 最終学歴: 博士（工学）
+- ポートフォリオ
+  - [GitHub Pages](https://bigface0202.github.io/portfolio/)
+- 出版物
+  - 英語記事
     - [medium](https://medium.com/@bigface00)
-  - Japanese
+  - 日本語記事
     - [Qiita](https://qiita.com/bigface00)
     - [Future Tech Blog](https://future-architect.github.io/authors/%E5%B2%B8%E4%B8%8B%E5%84%AA%E4%BB%8B/)
-- LinkedIn
-  - [Yusuke Enami(Kishishita)](https://www.linkedin.com/in/yusuke-enami-56197b181/)
+- SNS
+  - [LinkedIn](https://www.linkedin.com/in/yusuke-enami-56197b181/)
 
-## Skills
+# スキル
 
-### Programming
+## プログラミング言語
 - Terraform
 - Python
 - Groovy
@@ -25,44 +23,45 @@
 - JavaScript
 - C++
 
-### Framework, Middleware, Hardware
+## フレームワーク・ミドルウェア・ハードウェア
 - Google Cloud
 - Kubernetes
 - Jenkins
 - Vue.js
-- Raspberry Pi
 - Apache Airflow
+- NGINX
+- Raspberry Pi
 
-### Others
+## その他、開発手法など
 - Agile
+- カンバン
 
-## Language
+## 言語
 
 - 日本語
   - 第一言語
 - English
-  - TOEIC: 830 (2019/04)
   - IELTS: 6.0 (2024/04)
     - Reading: 6.5
     - Listening: 6.5
     - Writing: 6.5
     - Speaking: 5.0
 
-## Job Career
+# キャリア
 
-### 2022/02 - : Future Architect - IT Consultant
+## 2022/02 - 現在 : フューチャーアーキテクト株式会社 - ITコンサルタント
 
-#### 要約
+### 要約
 
 - グローバルに展開するクライアント企業のチームにてSRE/DevOpsエンジニアとして働く。
 - 主に、クライアント企業のGoogle Cloud環境上でのインフラストラクチャ整備・CI/CDツール開発に従事。
 - セキュリティを意識したアーキテクチャ構築、クラウドリソースのコストカット活動、ネットワーク整備にも貢献。
 
-#### Responsibilities between 2022/05 - Now
+### 2023/05 - 現在 : 業務内容
 
 引き続き同じクライアント企業において、製品レコメンドエンジン開発チームのDevOpsエンジニアとして従事。
 
-#### Description
+#### 詳細
 
 - リコメンドAIモデルの学習・推論用のGoogle Cloudインフラストラクチャ構築
   - 多数のリージョンを跨いだグローバル展開対応の推進
@@ -83,16 +82,6 @@
     - Version管理
     - CIDR設計
   - Cloud Composer
-    - Airflowパラメータの最適化
-    - PyPI Packageの最適化
-    - CIDR設計
-    - DAG実行時における障害対応
-    - GCE Fuse周りの障害対応
-  - Compute Engine
-    - APIの不具合解消
-  - Network
-    - CIDR範囲重複による通信不良の解消
-    - Cloud NATのAllocation error解消
   - BigQuery
     - Slot利用の最適化
 - プロジェクトメンバー5名でのプロジェクト推進
@@ -108,11 +97,11 @@
   - Jenkins
   - Apache Airflow
 
-#### Responsibilities between 2022/02 - 2023/05
+### 2022/02 - 2023/05 : 業務内容
 
 グローバル展開しているクライアント企業において、プロジェクトを横断したSREチームのエンジニアとして従事。
 
-#### Description
+#### 詳細
 
 - ユーザー・グループ・IAMを検索可能なSREツール開発
   - 要件定義・設計・開発・運用設計・導入まで一貫して担当
@@ -137,19 +126,31 @@
   - Google Cloud
   - Jenkins
 
-### 2020/04 - 2022/01: Global Walkers, Inc. - AI Development Engineer
+#### 利用プログラミング言語/フレームワーク
 
-#### Summary
+- Golang
+- Terraform
+- Kubernetes
+- Google Cloud
+  - Cloud IAM
+  - VPC Service Control
+  - Cloud Monitoring
+  - Network
+  - Google Kubernetes Engine
+- Jenkins
+- SendGrid
+- Squid Proxy
+- Linux
 
 - DeepLearningを利用した画像処理技術の研究開発エンジニアとして働く。
 - 物体検出、人物トラッキング、姿勢推定、モデル量子化を利用したPoC・アプリケーション開発に従事。
 - チームリーダーとして英語でのコミュニケーションを通じたオフショアエンジニアとのソフトウェア開発にも貢献。
 
-#### Responsibilities between 2021/04 - 2022/01
+### 要約
 
 - エッジデバイスを利用したAI監視カメラの開発
 
-#### Description
+### 2021/04 - 2022/01 : 業務内容
 
 - 人物検出、トラッキング技術の利用したAI監視カメラの研究開発
   - 要件定義・アーキテクチャ設計・開発までを担当
@@ -174,11 +175,24 @@
   - ROS2
   - Raspberry Pi 4B
 
-#### Responsibilities between 2020/10 - 2021/03
+#### 詳細
 
-- Bluetoothビーコンを利用した位置推定技術の研究開発
+- 人物検出、トラッキング技術の利用したAI監視カメラの研究開発
+  - 要件定義・アーキテクチャ設計・開発までを担当
+  - 検出・トラッキング用AIの開発
+    - エッジデバイスでも推論できるようにモデル量子化による計算コストの削減
+    - 演算速度向上のため、PythonからC++への移行
+  - ダッシュボード開発
+    - カメラ映像や人物の動線を可視化するフロントエンドの開発
+    - 認証機能やデータ取得を行うバックエンド開発
+- チームマネジメント
+  - 大まかな方針を決め、アジャイルに開発し、適宜ミーティングで方針の微調整を行う
+  - メンバーのスキル向上を意識したタスクの割り振り
+    - 開発経験のない分野は難易度の低いタスクをアサイン
+    - メンバー全員が同じレベルで開発できるようにスキルの底上げ
+  - オフショアエンジニアと英語でのコミュニケーションじたプロジェクト推進
 
-#### Description
+#### 利用プログラミング言語/フレームワーク
 
 - Bluetoothの信号強度と機械学習を利用した位置推定技術の研究開発
   - 要件定義・設計・開発まで実施
@@ -197,11 +211,14 @@
   - Flutter
   - Firebase
 
-#### Responsibilities between 2020/07 - 2020/09
+### 2020/10 - 2021/03 : 業務内容
 
-- リモートワークに向けた異常検知ソフトウェアの開発
+- 顧客：セキュリティサービス会社
+- プロジェクト：Bluetoothを利用した位置推定技術の研究開発
+- メンバー：4名（日本人エンジニア：1名、オフショアエンジニア：3名）
+- 役割：エンジニア兼チームリーダー
 
-#### Description
+#### 詳細
 
 - リモートワーク中における異常行動を検知するソフトウェア開発
   - 異常行動：ショルダーハッキングやスマートフォンを利用したデータの盗撮など
@@ -219,11 +236,21 @@
   - Tensorflow Lite
   - Firebase
 
-#### Responsibilities between 2020/04 - 2020/06
+#### 利用プログラミング言語/フレームワーク
+- Dart
+- JavaScript
+- Vue.js
+- Tensorflow.js
+- Flutter
+- Firebase
+- Linux
 
-- 物体検出モデルの性能評価に関する研究開発
+### 2020/07 - 2020/09 : 業務内容
 
-#### Description
+- 顧客：無し
+- プロジェクト：リモートワークに向けた異常検知ソフトウェアの研究開発
+- メンバー：4名（日本人エンジニア1名：オフショアエンジニア：3名）
+- 役割：エンジニア兼チームリーダー
 
 - 複数の物体検出モデルに対して検出性能を評価する手法の調査
   - 論文の調査を行い、実装から評価までを行う
