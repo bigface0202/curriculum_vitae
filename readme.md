@@ -175,7 +175,7 @@
 
 #### Responsibilities between 2020/07 - 2020/09
 
-- Development for anomaly detection tool for remote work
+- Development for anomaly detection software for remote work
 
 #### Description
 
@@ -190,7 +190,7 @@
 
 #### Responsibilities between 2020/04 - 2020/06
 
-- Evaluation for performance of object detection model
+- Performance evaluation of object detection model
 
 #### Description
 
