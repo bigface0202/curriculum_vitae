@@ -73,9 +73,6 @@
 
 ### Summary
 
-- 衛星システム自動化グループに所属し、衛星運用の自動化においてソフトウェアエンジニアとして従事。
-- 主に、衛星及び地上局のモニタリング、衛星へのコマンディングにおける自動化を行う。
-- 衛星運用のプランニング、コマンディングにも貢献。
 - Working as a software engineer in Satellite System Automation Group, forcusing on the development of satellite operation systems.
 - Primarily responsible for developing monitoring systems for both satellites and ground stations, as well as automating command delivery.
 - Handling the planning and execution of commands for satellite constellations.
