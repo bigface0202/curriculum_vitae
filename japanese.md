@@ -3,13 +3,30 @@
 |----|----|
 |氏名|江波 優介（えなみ　ゆうすけ）|
 |最終学歴|博士（工学）|
-|ポートフォリオ|[GitHub Pages](https://bigface0202.github.io/portfolio/)<br>[medium](https://medium.com/@bigface00)<br>[Future Tech Blog](https://future-architect.github.io/authors/%E5%B2%B8%E4%B8%8B%E5%84%AA%E4%BB%8B/)<br>[Qiita](https://qiita.com/bigface00)|
+|ポートフォリオ|[GitHub Pages](https://bigface0202.github.io/portfolio/)<br>[medium](https://medium.com/@bigface00)<br>[Axelspace Tech blog](https://zenn.dev/enamin)<br>[Future Tech Blog](https://future-architect.github.io/authors/%E5%B2%B8%E4%B8%8B%E5%84%AA%E4%BB%8B/)<br>[Qiita](https://qiita.com/bigface00)|
 |利用経験言語|Terraform<br>Python<br>Groovy<br>Golang<br>JavaScript<br>C++|
 |フレームワーク|Google Cloud<br>Kubernetes<br>Jenkins<br>Vue.js<br>Apache Airflow<br>Raspberry Pi|
 
 # キャリア
 
-## 2022/02 - 現在 : フューチャーアーキテクト株式会社 - 役職:コンサルタント
+## 2025/05 - 現在 : アクセルスペース株式会社 - 役職:ソフトウェアエンジニア
+
+### 要約
+
+- 衛星システム自動化グループに所属し、衛星運用の自動化においてソフトウェアエンジニアとして従事。
+- 主に、衛星及び地上局のモニタリング、衛星へのコマンディングにおける自動化を行う。
+- 衛星運用のプランニング、コマンディングにも貢献。
+
+### 2025/12 - 現在 : 業務内容
+
+衛星運用グループにおいて、運用をリードする立場としてコマンディングの策定及び検証、トラブルシューティング、実運用に従事。
+
+### 2025/05 - 2025/11 : 業務内容
+
+衛星システム自動化グループにおいて、運用自動化システムの機能開発に従事。
+
+
+## 2022/02 - 2025/04 : フューチャーアーキテクト株式会社 - 役職:コンサルタント
 
 ### 要約
 
@@ -17,7 +34,7 @@
 - 主に、クライアント企業のGoogle Cloud環境下でのインフラストラクチャ整備・CI/CDツール開発・セキュリティ施策を行う。
 - アーキテクチャの提案、クラウドリソースのコストカット活動、ネットワーク整備にも貢献。
 
-### 2023/05 - 現在 : 業務内容
+### 2023/05 - 2025/04 : 業務内容
 
 デジタルマーケティングプロジェクトに所属し、製品レコメンドエンジン・広告配信システム開発のSRE/DevOpsエンジニアとして従事。
 

@@ -68,7 +68,28 @@
 
 ## Job Career
 
-### 2022/02 - : Future Architect - IT Consultant
+## 2025/05 -  : Axelspace Corporation - Software Engineer
+
+### Summary
+
+- 衛星システム自動化グループに所属し、衛星運用の自動化においてソフトウェアエンジニアとして従事。
+- 主に、衛星及び地上局のモニタリング、衛星へのコマンディングにおける自動化を行う。
+- 衛星運用のプランニング、コマンディングにも貢献。
+- Working as a software engineer in Satellite System Automation Group, forcusing on the development of satellite operation systems.
+- Primarily responsible for developing monitoring systems for both satellites and ground stations, as well as automating command delivery.
+- Handling the planning and execution of commands for satellite constellations.
+
+### Responsibilities since 2025/12 -  
+
+- Leading mission planning and scheduling within the Satellite System Automation Group.
+- Optimizing operational workflows to ensure the efficient management of satellite constellations.
+
+### Responsibilities between 2025/05 - 2025/11
+
+- Developed core features for the satellite operation system in the Satellite System Automation Group.
+- Contributed to the automation of ground station monitoring and commanding processes.
+
+### 2022/02 - 2025/04: Future Architect - IT Consultant
 
 #### Summary
 
@@ -76,7 +97,7 @@
 - Mainly, developing the infrastructure on Google Cloud.
 - Data security, cost reduction, and network are also my responsibility.
 
-#### Responsibilities between 2022/05 - Now
+#### Responsibilities between 2022/05 - 2025/04
 
 - DevOps engineer in product recommendation model development team.
 
