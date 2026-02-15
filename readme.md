@@ -12,6 +12,7 @@
   - Japanese
     - [Qiita](https://qiita.com/bigface00)
     - [Future Tech Blog](https://future-architect.github.io/authors/%E5%B2%B8%E4%B8%8B%E5%84%AA%E4%BB%8B/)
+    - [Axelspace Tech blog](https://zenn.dev/enamin)
 - X: 
   - [@bigface0202](https://twitter.com/bigface0202)
 - LinkedIn
